@@ -1,0 +1,42 @@
+
+[
+    {
+    "name":"Cow",
+    "weigh in KG/TON":400,
+    "residence":"everywhere" ,
+    "is endangered?":false,
+    "foods":"grass",
+    "delicious":true   
+
+    },
+
+    {
+        "name":"Elephant",
+        "weigh in KG/TON":1200,
+        "residence":"zoo"  ,
+        "is endangered?":false,
+        "foods":"grass",
+        "delicious":false   
+        
+    },
+
+    {
+        "name":"Gray Wolf",
+        "weigh in KG/TON":100,
+        "residence":"woods"  ,
+        "is endangered?":true,
+        "foods":"meat",
+        "delicious": false   
+        
+    },
+    {
+        "name":"Squirrel",
+        "weigh in KG":50,
+        "residence":"woods",
+        "is endangered?": false,
+        "foods": ["nuts", "mashrooms", "insect"],
+        "delicious":false  
+        
+    }
+]
+
